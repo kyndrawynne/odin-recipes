@@ -1,5 +1,5 @@
 body{
-    background-color: honeydew;
+    background-color:honeydew;
 }
 
 .pagetitle{
@@ -40,3 +40,17 @@ body{
     height: auto;
 }
 
+.recipecontent{
+    font-family: "Poppins";
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.recipetitle{
+    font-size: 40px;
+}
+
+.photodescription{
+    font-style: italic;
+    margin-top: 0px;
+}
