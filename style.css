@@ -1,0 +1,42 @@
+body{
+    background-color: honeydew;
+}
+
+.pagetitle{
+    font-family: "Aboreto";
+    font-size: 100px;
+    text-align: center;
+    color: tomato;
+    margin: 45px;
+}
+
+.recipes{
+    display: block;
+    background-color: tomato;
+    text-align: center;
+    font-family: "Poppins";
+    font-size: 25px;
+    color: honeydew;
+    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.logocontainer{
+    display: grid;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    width: 250px;
+    height: auto;
+}
+
